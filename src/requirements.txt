@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+tqdm
+beautifulsoup4
+langchain
+langchain-community
+django-request
+azure-search-documents
+openai
+azure-keyvault-secrets
+azure-search-documents

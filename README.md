@@ -1,0 +1,1 @@
+Binnen deze directory is het script 'clean-data2.py' die dat je wilt gebruiken. Deze cleaned de data en slaat ze op in de folder cleaned_data
